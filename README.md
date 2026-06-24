@@ -34,19 +34,6 @@ IT Apprentice at Eisenhower Health (Systems Administrator), studying CS at CSUSB
 
 ---
 
-## Projects
-
-| Project | Stack | Description |
-|---|---|---|
-| [Nexus](https://github.com/H4ch1Net/Nexus) | Python | CTF toolkit: crypto, OSINT, password cracking, log/network analysis, forensics |
-| [NERD](https://github.com/H4ch1Net/switch-vis) | Python, CLI | Network asset tracker built at work. Replaced a spreadsheet tracking 500+ devices |
-| [Jarvis II](https://github.com/H4ch1Net/NCAS26-RedGiant-Jarvis) | Python, MicroPython, LEGO EV3 | Autonomous rover for NASA NCAS 2026. Coordinate nav, gyro correction, obstacle avoidance, color-based mineral ID |
-| [AI SSH Agent](https://github.com/H4ch1Net) | Python, LLM APIs, SSH | Voice/text-controlled assistant that SSHs into machines and runs network and system tasks |
-| KS LED Reverse Eng | Python, Bluetooth | Reverse-engineered the Bluetooth protocol for discontinued KS LED hardware. Python replacement for the broken vendor app |
-| Vibe-a-thon Mockup Tool | React, Canvas API, pdf-lib | Apparel mockup generator. 4 color variants, front/back views, exports to PNG/PDF/PPTX/SVG |
-
----
-
 ## Skills
 
 **Security**
