@@ -1,7 +1,6 @@
 <div align="center">
 
-
-**Mauro Hernandez Rico**
+**h4ch1**
 
 [![Portfolio](https://img.shields.io/badge/h4ch1.net-000000?style=flat&logo=vercel&logoColor=00E38C)](https://h4ch1.net)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/mauro-hernandez-rico)
@@ -11,26 +10,23 @@
 
 ---
 
-IT Apprentice at Eisenhower Health (Systems Administrator), studying CS at CSUSB and CIS at College of the Desert. I write Python tools that run in production, compete in CTFs, and work on personal projects in between.
+IT Apprentice (Systems Administrator), studying CS and CIS. I write Python tools that run in production, compete in CTFs, and work on personal projects in between.
 
 ---
 
 ## Experience
 
-**Systems Administrator** @ Eisenhower Health *(Jun 2025 – Present)*
-
-- Built NERD, a Python CLI replacing spreadsheets for tracking 500+ switches, routers, and hardware. Full CRUD, JSON-backed, zero external libraries.
+**Systems Administrator** @ a regional healthcare system *(2025 – Present)*
+- Built NERD, a Python CLI replacing spreadsheets for tracking a large fleet of switches, routers, and other network hardware. Full CRUD, JSON-backed, zero external libraries.
 - Building a real-time Cisco port monitor: threaded ICMP pings, color-coded ASCII output for the network team.
-- Three production tools shipped in the first 60 days, all on Python stdlib to avoid install friction on segmented hospital infrastructure.
+- Multiple production tools shipped in the first couple months, all on Python stdlib to avoid install friction on segmented enterprise infrastructure.
 
-**IT Desktop Technician** @ Eisenhower Health *(Sep 2024 – Jun 2025)*
-
+**IT Desktop Technician** @ a regional healthcare system *(2024 – 2025)*
 - Wrote a PowerShell imaging script with AD group selection and software profiles, cutting an 8-hour process to parallel, fire-and-forget jobs.
-- AD object management, Group Policy, 10+ daily tickets via Ivanti and RDP across clinical and admin departments.
+- AD object management, Group Policy, and daily ticket support across clinical and admin departments.
 
-**IT Service Desk** @ Eisenhower Health *(Jun 2024 – Sep 2024)*
-
-- 25-30+ tickets per day via JIRA across clinical and admin departments.
+**IT Service Desk** @ a regional healthcare system *(2024)*
+- High-volume daily ticket support across clinical and admin departments.
 
 ---
 
@@ -72,4 +68,5 @@ CompTIA A+ CE · PC Pro · Network Pro · Security Pro
 
 ---
 
-President, COD Cyber Competition Team · Bilingual (English / Spanish)
+President, my college's cyber competition team · Bilingual (English / Spanish)
+</content>
